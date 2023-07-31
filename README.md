@@ -4,7 +4,8 @@ Creation of joint savings accounts via Solidity smart contract which accepts two
 
 ## Technologies Used
 
-Remix online IDE is a powerful toolset for developing, deploying, debugging ethereum and EVM-compatible smart contracts. It requires no setup and has flexible intuitive user interface. 
+Remix IDE <br>
+    Remix online IDE is a powerful toolset for developing, deploying, debugging ethereum and EVM-compatible smart contracts. It requires no setup and has flexible intuitive user interface. 
 
  - [How to use Remix ](https://remix.ethereum.org/)
 
